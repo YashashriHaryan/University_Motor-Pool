@@ -1,6 +1,8 @@
 # University_Motor-Pool
 
-This sql file has Data Description Language and Data Manipulation Language with which I have created and populated the database with relevant information for the University Motor Pool. 
+Firstly, the information system is modelled using EER(Enhanced Entity-Relationship Diagram) and Relational schema which layed an idea on how to create the database. Both the files are attached in svg format.
+
+The sql file(University Motor Pool - DDL,DML,3 Q_s.sql) has Data Description Language and Data Manipulation Language with which I have created and populated the database with relevant information for the University Motor Pool. 
 
 I have 3 queries which retrive some useful information from the database 
 
